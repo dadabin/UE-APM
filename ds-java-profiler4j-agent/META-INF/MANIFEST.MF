@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: com.ds.jvm.agent.Agent
+Boot-Class-Path: ds_agent.jar
+Can-Redefine-Classes: true
